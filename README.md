@@ -33,17 +33,17 @@
 
 ## `> whoami`
 
-Final-year Cloud &amp; DevOps Engineering student at ESPRIT, comfortable across the full delivery chain — containers, CI/CD, observability and IaC. Currently a DevOps intern at Linedata, building hardened Docker stacks, GitLab/Jenkins pipelines and Prometheus/Grafana monitoring.
+> **Final-year Cloud &amp; DevOps Engineering student** at **ESPRIT**, comfortable across the full delivery chain — containers, CI/CD, observability and IaC.
+> Currently a **DevOps intern at Linedata**, building hardened Docker stacks, GitLab/Jenkins pipelines and Prometheus/Grafana monitoring.
 
-```bash
-$ cat .profile
-
-ROLE     =  Cloud & DevOps Engineering Student
-DOMAIN   =  Cloud  |  DevOps  |  Platform Engineering  |  SRE
-STACK    =  Docker  |  Kubernetes  |  Terraform  |  AWS  |  OpenStack
-CI/CD    =  GitLab CI  |  Jenkins  |  GitHub Actions
-OBSERVE  =  Prometheus  |  Grafana  |  cAdvisor
-OPEN_TO  =  Final-year graduation internship (PFE)
+```ini
+[ profile ]
+role      =  Cloud & DevOps Engineering Student
+domain    =  Cloud · DevOps · Platform Engineering · SRE
+stack     =  Docker · Kubernetes · Terraform · AWS · OpenStack
+ci_cd     =  GitLab CI · Jenkins · GitHub Actions
+observe   =  Prometheus · Grafana · cAdvisor
+open_to   =  Final-year graduation internship (PFE)
 ```
 
 <!-- ==================== 07 · TECH STACK ICONS ==================== -->
