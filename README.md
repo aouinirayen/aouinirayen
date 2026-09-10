@@ -1,7 +1,7 @@
 <!-- ==================== 01 · ANIMATED BANNER ==================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=22D3EE&height=200&section=header&text=Rayen%20Aouini&fontColor=0A0E14&fontSize=42&desc=Cloud%20%26%20DevOps%20Engineer&descColor=0A0E14&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/aouinirayen/aouinirayen/main/banner.svg" />
 
 <!-- ==================== 02 · TYPING SVG ==================== -->
 
@@ -197,23 +197,7 @@ Provisioned all AWS infrastructure with Terraform, containerized the app, and bu
 
 </div>
 
-<!-- ==================== 15 · TROPHIES ==================== -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aouinirayen&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" />
-
-</div>
-
-<!-- ==================== 16 · ACTIVITY GRAPH ==================== -->
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aouinirayen&bg_color=0A0E14&color=22D3EE&line=38BDF8&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-
-</div>
-
-<!-- ==================== 17 · SUMMARY CARDS ==================== -->
+<!-- ==================== 15 · SUMMARY CARDS ==================== -->
 
 <div align="center">
 
@@ -262,10 +246,8 @@ open_to:
 <a href="https://github.com/aouinirayen">
 <img src="https://img.shields.io/badge/GitHub-aouinirayen-C9D1D9?style=for-the-badge&logo=github&logoColor=0A0E14&labelColor=0A0E14" /></a>
 
-<br><br>
+<br>
 
 *"Automate the boring, observe the rest."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=footer" />
 
 </div>
