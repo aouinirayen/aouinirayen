@@ -1,7 +1,7 @@
 <!-- ==================== 01 · ANIMATED BANNER ==================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0E14,100:22D3EE&height=200&section=header&text=Rayen%20Aouini&fontColor=E8FBFF&fontSize=42&desc=Cloud%20%26%20DevOps%20Engineer&descColor=38BDF8&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=22D3EE&height=200&section=header&text=Rayen%20Aouini&fontColor=0A0E14&fontSize=42&desc=Cloud%20%26%20DevOps%20Engineer&descColor=0A0E14&descSize=18&animation=fadeIn" />
 
 <!-- ==================== 02 · TYPING SVG ==================== -->
 
@@ -277,6 +277,6 @@ open_to:
 
 *"Automate the boring, observe the rest."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0A0E14&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=footer" />
 
 </div>
