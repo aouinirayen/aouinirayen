@@ -193,10 +193,7 @@ Provisioned all AWS infrastructure with Terraform, containerized the app, and bu
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aouinirayen&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=38BDF8&text_color=C9D1D9&bg_color=0A0E14" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aouinirayen&hide_border=true&background=0A0E14&stroke=22D3EE&ring=38BDF8&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B98A5&sideNums=C9D1D9&currStreakNum=C9D1D9" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aouinirayen&layout=compact&hide_border=true&title_color=22D3EE&text_color=C9D1D9&bg_color=0A0E14" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aouinirayen&hide_border=true&background=0A0E14&stroke=22D3EE&ring=38BDF8&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B98A5&sideNums=C9D1D9&currStreakNum=C9D1D9" />
 
 </div>
 
@@ -204,7 +201,7 @@ Provisioned all AWS infrastructure with Terraform, containerized the app, and bu
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aouinirayen&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=aouinirayen&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -212,7 +209,7 @@ Provisioned all AWS infrastructure with Terraform, containerized the app, and bu
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aouinirayen&bg_color=0A0E14&color=22D3EE&line=38BDF8&point=C9D1D9&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aouinirayen&bg_color=0A0E14&color=22D3EE&line=38BDF8&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
@@ -230,15 +227,7 @@ Provisioned all AWS infrastructure with Terraform, containerized the app, and bu
 
 </div>
 
-<!-- ==================== 18 · SNAKE ANIMATION ==================== -->
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/aouinirayen/aouinirayen/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-<!-- ==================== 19 · CURRENT FOCUS YAML ==================== -->
+<!-- ==================== 18 · CURRENT FOCUS YAML ==================== -->
 
 ## `> cat current-focus.yaml`
 
